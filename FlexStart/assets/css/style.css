@@ -1,10 +1,3 @@
-/**
-* Template Name: FlexStart - v1.1.1
-* Template URL: https://bootstrapmade.com/flexstart-bootstrap-startup-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -1172,12 +1165,12 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-info h4 {
   font-size: 20px;
-  color: #012970;
-  font-weight: 700;
+  color: black;
+  font-weight: bold;
 }
 
 .portfolio .portfolio-wrap .portfolio-info p {
-  color: #012970;
+  color: #1b1b1b;
   font-weight: 600;
   font-size: 14px;
   text-transform: uppercase;
@@ -1192,7 +1185,7 @@ section {
 
 .portfolio .portfolio-wrap .portfolio-links a {
   color: #fff;
-  background: #4154f1;
+  background: #e03a3c;
   margin: 10px 2px;
   width: 36px;
   height: 36px;
@@ -1443,7 +1436,7 @@ section {
 
 .team .member .social a {
   transition: color 0.3s;
-  color: rgba(1, 41, 112, 0.5);
+  color: #e03a3c;
   margin: 15px 12px;
   display: block;
   line-height: 0;
@@ -1451,7 +1444,7 @@ section {
 }
 
 .team .member .social a:hover {
-  color: rgba(1, 41, 112, 0.8);
+  color: #1b1b1b;
 }
 
 .team .member .social i {
@@ -1467,6 +1460,7 @@ section {
   margin-bottom: 5px;
   font-size: 20px;
   color: #e9222c;
+  text-align: center;
 }
 
 .team .member .member-info span {
@@ -1482,6 +1476,7 @@ section {
   padding-top: 15px;
   line-height: 26px;
   color: #5e5e5e;
+  text-align: center;
 }
 
 .team .member:hover {
