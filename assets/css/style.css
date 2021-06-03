@@ -168,7 +168,7 @@ section {
   transition: all 0.5s;
   z-index: 997;
   padding: 20px 0;
-  background-color:rgba(0, 0, 0, 0.800);
+  background-color:black;
 }
 
 .header.header-scrolled {
