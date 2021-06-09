@@ -65,6 +65,7 @@ section {
   .section-header p {
     font-size: 28px;
     line-height: 32px;
+    padding-bottom: 10px;
   }
 }
 
@@ -1557,6 +1558,13 @@ section {
   opacity: 1;
 }
 
+@media (max-width: 500px){
+  .team .member{
+    margin: auto;
+    margin-bottom: 45px;
+  }
+}
+
 /*--------------------------------------------------------------
 # Clients
 --------------------------------------------------------------*/
@@ -2510,6 +2518,9 @@ section {
   .footer #section{
     font-size: 14px;
     max-width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 13px;
   }
   .whatswidget-conversation-header{
     opacity: 0;

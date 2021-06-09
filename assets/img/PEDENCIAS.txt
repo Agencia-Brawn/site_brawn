@@ -1,11 +1,11 @@
 MENU
-
+ok
 
 INICIO
-
+ok
 
 SOBRE
-- falta a IMG (Netto)
+ok
 
 
 SERVIÇOS
@@ -34,7 +34,7 @@ Temos ativos:
 
 
 EQUIPE
-- Contato Netto
+ok
 
 
 PARCEIROS
