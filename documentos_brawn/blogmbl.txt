@@ -1,0 +1,11 @@
+=> Definir tamanho de img em destaque 
+	=> Colocar a descrição da img (Texto alternativo)
+
+=> Tamanho de img no carrosel
+=> Limite máximo de descrição de posts
+
+
+
+Resumo do dia 24
+=> As secções de posts
+=> Ficou pedente os Widgets e as cores
